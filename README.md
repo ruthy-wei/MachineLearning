@@ -38,10 +38,11 @@
 
 ## Contributor
 
-- 刘帝伟, 中南大学2014级硕士，[HomePage](http://www.csuldw.com).
+位欢欢-上海师范大学2017届硕士
+部分转载- 刘帝伟, 中南大学2014级硕士，[HomePage](http://www.csuldw.com).
 
 
 ## Contact
 
-- QQ: 466454368
-- E-mail: csu.ldw@csu.edu.cn
+- QQ: 571341639
+- E-mail: 571341639@
