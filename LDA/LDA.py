@@ -17,13 +17,13 @@ def compute_si(xi):
 
 # 计算类间离散度矩阵Sb
 def compute_Sb(x1, x2):
-    dataX = np.vstack((x1, x2))  # 合并样本
+    dataX=np.vstack((x1,x2))#合并样本
     print "dataX:", dataX
-    # 计算均值
-    u1 = meanX(x1)
-    u2 = meanX(x2)
-    u = meanX(dataX)  # 所有样本的均值
-    Sb = (u - u1).T * (u - u1) + (u - u2).T * (u - u2)
+    #计算均值
+    u1=meanX(x1)
+    u2=meanX(x2)
+    u=meanX(dataX) #所有样本的均值
+    Sb = (u-u1).T * (u-u1) + (u-u2).T * (u-u2)
     return Sb
 
 def LDA(x1, x2):

@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 import numpy as np
-import csv
 from matplotlib import pyplot as plt
-import math
+
 
 def read_iris():
     from sklearn.datasets import load_iris
@@ -50,7 +49,7 @@ def between_class_SB(data,label,clusters):
     return S_B
 
 def lda():
-    data,label=read_iris();
+    data,label=read_iris()
     clusters = 3
     S_W = within_class_SW(data,label,clusters)
     S_B = between_class_SB(data,label,clusters)
