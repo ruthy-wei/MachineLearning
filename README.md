@@ -6,30 +6,32 @@
 
 算法部分目前主要包含如下部分：
 
-- Logistic Regression (二分类):  [源码实现](https://github.com/csuldw/MachineLearning/tree/master/Logistic%20Regression) 。包含数据集和源码。
+- Logistic Regression (二分类):  [源码实现](https://github.com/ruthy-wei/MachineLearning/tree/master/Logistic%20Regression) 。包含数据集和源码。
 
-- Decision Tree: 决策树，[源码实现](https://github.com/csuldw/MachineLearning/tree/master/DecisionTree).
+- Decision Tree: 决策树，[源码实现](https://github.com/ruthy-wei/MachineLearning/tree/master/DecisionTree).
 
-- ROC: 用于绘制ROC曲线，[源码实现](https://github.com/csuldw/MachineLearning/tree/master/ROC).
+- Support Vector Machine:支持向量机，[源码实现](https://github.com/ruthy-wei/MachineLearning/tree/master/SVM).
 
-- Naive Bayes：朴素贝叶斯，[源码实现](https://github.com/csuldw/MachineLearning/tree/master/NaiveBayes).
+- ROC: 用于绘制ROC曲线，[源码实现](https://github.com/ruthy-wei/MachineLearning/tree/master/ROC).
 
-- K-NearestNeighbor：K最近邻算法，[源码实现](https://github.com/csuldw/MachineLearning/tree/master/KNN).
+- Naive Bayes：朴素贝叶斯，[源码实现](https://github.com/ruthy-wei/MachineLearning/tree/master/NaiveBayes).
 
-- K-Means均值聚类：[源码实现](https://github.com/csuldw/MachineLearning/tree/master/Kmeans).
+- K-NearestNeighbor：K最近邻算法，[源码实现](https://github.com/ruthy-wei/MachineLearning/tree/master/KNN).
 
-- Adaboost组合算法：[源码链接](https://github.com/csuldw/MachineLearning/tree/master/Adaboost)
+- K-Means均值聚类：[源码实现](https://github.com/ruthy-wei/MachineLearning/tree/master/Kmeans).
 
-- mRMR特征选择方法，[软件使用方法](https://github.com/csuldw/MachineLearning/tree/master/mRMR)
+- Adaboost组合算法：[源码链接](https://github.com/ruthy-wei/MachineLearning/tree/master/Adaboost)
+
+- mRMR特征选择方法，[软件使用方法](https://github.com/ruthy-wei/MachineLearning/tree/master/mRMR)
 
 - 机器学习算法代码使用汇总，[Python & R Codes](http://www.csuldw.com/2015/11/21/2015-11-21-machine-learning-algorithms/)
 
-- PCA主要成分分析, [Python实现源码](https://github.com/csuldw/MachineLearning/tree/master/PCA)
+- PCA主要成分分析, [Python实现源码](https://github.com/ruthy-wei/MachineLearning/tree/master/PCA)
 
-- LDA线性判别分析（Fisher判别）,[源码实现](https://github.com/csuldw/MachineLearning/blob/master/LDA/lda.ipynb)
+- LDA线性判别分析（Fisher判别）,[源码实现](https://github.com/ruthy-wei/MachineLearning/blob/master/LDA/lda.ipynb)
 
 - spark-demo：使用scala编写的spark实例.
-	- invertedIndex, [Spark 倒排索引实例源码](https://github.com/csuldw/MachineLearning/tree/master/spark-demo/invertedIndex)
+	- invertedIndex, [Spark 倒排索引实例源码](https://github.com/ruthy-wei/MachineLearning/tree/master/spark-demo/invertedIndex)
 
 ## Supplementary
 
