@@ -22,6 +22,8 @@
 
 - Adaboost组合算法：[源码链接](https://github.com/ruthy-wei/MachineLearning/tree/master/Adaboost)
 
+- Genetic Algorithm遗传算法：[源码链接](https://github.com/ruthy-wei/MachineLearning/tree/master/Genetic%20Algorithm)
+
 - mRMR特征选择方法，[软件使用方法](https://github.com/ruthy-wei/MachineLearning/tree/master/mRMR)
 
 - 机器学习算法代码使用汇总，[Python & R Codes](http://www.csuldw.com/2015/11/21/2015-11-21-machine-learning-algorithms/)
